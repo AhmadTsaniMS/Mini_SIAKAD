@@ -1,17 +1,22 @@
 # 🎓 Mini SIAKAD Lite PBL
 
+
 <div align="center">
+
   <p align="center">
     <img src="https://img.shields.io/badge/PHP-8.0%20%7C%208.1%20%7C%208.2-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Version" />
     <img src="https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/Architecture-Repository%20Pattern-orange?style=for-the-badge" alt="Architecture" />
   </p>
-  
+
   <p align="center">
     <strong>Sistem Informasi Akademik Ringan dengan Arsitektur Berorientasi Objek (OOP) & Fault-Tolerant Hybrid Database Layer</strong>
   </p>
 </div>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ahmadtsanims/Mini_SIAKAD?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmadtsanims/Mini_SIAKAD?style=for-the-badge)
 
 ---
 
